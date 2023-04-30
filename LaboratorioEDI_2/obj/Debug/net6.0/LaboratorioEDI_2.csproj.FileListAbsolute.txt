@@ -1,0 +1,32 @@
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.exe
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.deps.json
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.runtimeconfig.json
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.dll
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.pdb
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.csproj.AssemblyReference.cache
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.AssemblyInfoInputs.cache
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.AssemblyInfo.cs
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.csproj.CoreCompileInputs.cache
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.dll
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\refint\LaboratorioEDI_2.dll
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.pdb
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.genruntimeconfig.cache
+C:\Users\oswal\Desktop\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\ref\LaboratorioEDI_2.dll
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.exe
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.deps.json
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.runtimeconfig.json
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.dll
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\ref\LaboratorioEDI_2.dll
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\LaboratorioEDI_2.pdb
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.csproj.AssemblyReference.cache
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.AssemblyInfoInputs.cache
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.AssemblyInfo.cs
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.csproj.CoreCompileInputs.cache
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.dll
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\ref\LaboratorioEDI_2.dll
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.pdb
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.genruntimeconfig.cache
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alison Gatica Rivera\Documents\A.G\UNIVERSIDAD\ESTRCTURA DE DATOS 1\LaboratorioEDI_2\LaboratorioEDI_2\obj\Debug\net6.0\LaboratorioEDI_2.csproj.CopyComplete
